@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOHAMMAD-PC</Machine>
+    <WindowsUser>Mohammad</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>4FB0C9A585B249BDE00A8702E457CD277EE96646580E37E74EDEEC106B699080</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7c4450b4-4a24-4b9b-84bb-d6744ed43e6c_1.0.0.0_neutral__7nexagzmnkrc6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7c4450b4-4a24-4b9b-84bb-d6744ed43e6c_7nexagzmnkrc6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7c4450b4-4a24-4b9b-84bb-d6744ed43e6c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mohammad</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-12T23:22:56.277</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\bin\Debug\Pocket8.exe">
+      <PackagePath>Pocket8.exe</PackagePath>
+      <Modified>2013-02-12T23:22:54.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\bin\Debug\Pocket8.pdb">
+      <PackagePath>Pocket8.pdb</PackagePath>
+      <Modified>2013-02-12T23:22:54.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-12T22:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-12T22:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-12T22:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-02-12T23:22:45.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T16:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\bin\Debug\ItemsPage.xaml">
+      <PackagePath>ItemsPage.xaml</PackagePath>
+      <Modified>2013-02-12T23:22:45.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\bin\Debug\SplitPage.xaml">
+      <PackagePath>SplitPage.xaml</PackagePath>
+      <Modified>2013-02-12T23:22:45.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammad\documents\visual studio 2012\Projects\Pocket8\Pocket8\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-12T23:22:55.060</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
